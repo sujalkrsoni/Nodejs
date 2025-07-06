@@ -1,0 +1,12 @@
+{
+  "name": "wordpeek",
+  "version": "1.0.2",
+  "type": "module",
+  "main": "app.js",
+  "bin": {
+    "wordpeek": "./app.js"
+  },
+  "keywords": ["sujal","mrcoder","word counter", "word counter by sujal"],
+  "author": "Sujal Kumar Soni",
+  "license": "MIT"
+}

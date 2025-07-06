@@ -1,0 +1,20 @@
+{
+  "name": "mrcoder",
+  "version": "1.0.0",
+  "main": "mrcoder.js",
+  "bin" : "mrcoder.js",
+  "scripts": {
+    "start": "node mrcoder.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+   "pkg": {
+    "targets": [
+      "node18-win-x64"
+    ]
+  }
+}
+
